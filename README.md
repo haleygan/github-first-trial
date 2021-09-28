@@ -1,2 +1,4 @@
 # github-first-trial
-First Try 
+
+First Try with Git
+This is a description. 
